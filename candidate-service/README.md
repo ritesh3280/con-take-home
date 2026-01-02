@@ -25,7 +25,6 @@ Each job gets a score out of 100:
 - **Company overlap** (+5) - worked at companies the job likes
 - **YOE gap** (-3 per year) - under the minimum experience
 - **Overqualification** (-5 to -15) - senior people applying to junior roles
-- **Timezone** (+3) - candidate timezone matches job location
 
 Flags are matched with embeddings, embed the flag text, embed resume chunks, check cosine similarity (threshold 0.45).
 
