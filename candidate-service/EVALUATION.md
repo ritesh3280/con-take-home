@@ -2,142 +2,143 @@
 
 ## What I Built
 
-The service has 4 steps:
+Basically, the service does 4 things:
 
-1. **Parse the resume** - One LLM call makes resume text into structured info (years of experience, skills, companies, visa status, etc.)
-2. **Find similar jobs** - FAISS vector search pulls the top 50 candidates
+1. **Parse the resume** - One LLM call turns the messy resume text into structured stuff (years of experience, skills, companies, visa status, etc)
+2. **Find similar jobs** - FAISS vector search grabs the top 50 jobs that look relevant
 3. **Filter out bad fits** - Drop jobs where the candidate clearly doesn't qualify (needs visa but job doesn't sponsor, way too junior for a senior role, and other stuff)
-4. **Score what's left** - Match the resume against each job's green/red flags to get a final score
+4. **Score what's left** - Match the resume against each job's green/red flags and calculate a final score
 
-The key idea: I only call the LLM once per request. Everything else uses pre-computed embeddings, so it's fast and cheap.
+Main thing: I only call the LLM once per request. Everything else uses pre-computed embeddings so it stays fast and cheap.
 
 ## How I Got Here
 
-### I Started Simple
+### Started With The Obvious Thing
 
-My first idea was the most basic thing: embed the resume, embed each job, return whatever has the highest cosine similarity. Quick to build, but I realized it doesn't actually work for this assignment because:
+First idea was super simple: embed the resume, embed each job, return whatever has highest cosine similarity. Easy to build but it doesn't really work because:
 
-- It returns "plausible but wrong" matches (two jobs can both say "software engineer" but be completely different domains)
-- It ignores hard constraints like visa sponsorship or seniority requirements
-- Hard to explain *why* something matched
+- You get "plausible but wrong" matches (two jobs both say "software engineer" but they're completely different)
+- Ignores hard stuff like visa sponsorship or seniority
+- Can't explain *why* something matched
 
-So I kept the embedding similarity as a first pass (recall), but knew I needed more on top.
+So embedding similarity became my first pass to narrow things down, but I needed more stuff on top.
 
-### Added Structured Resume Extraction
+### Why I Added The LLM Call
 
-Resumes are messy. Just matching keywords misses important stuff like how many years someone has worked, whether they need visa sponsorship, or if they actually want remote vs just happened to work remote before.
+Resumes are messy. Keyword matching alone misses things like:
+- How many years has this person actually worked?
+- Do they need visa sponsorship?
+- Do they want remote, or did they just happen to work remote before?
 
-I added one LLM call at the start to pull out structured info: YOE, seniority level, skills broken into categories, companies they worked at, visa situation, and any explicit work preferences.
+As people have different kid of resume formats, I added one LLM call upfront to pull out structured info: YOE, seniority, skills in categories, past companies, visa situation, work preferences.
 
-This gave me reliable signals for filtering without needing to call the LLM for every job.
+Now I have actual signals to filter on without calling the LLM for every single job.
 
-**Tradeoff**: Adds latency and the LLM can hallucinate stuff.
-**What I did**: Set temperature=0, use strict JSON response format, and added validation logic to catch obvious mistakes (more on this below).
+**Downside**: Adds some latency and LLMs hallucinate sometimes.
+**Fix**: temperature=0, strict JSON format, and validation logic (more on this later).
 
-### Two-Stage Pipeline
+### Two-Stage Setup
 
-Once I had structured resume data, I set up a proper retrieval pipeline:
+Once I had structured data, I set up:
 
-1. **Recall** - FAISS pulls top 50 jobs by embedding similarity
-2. **Filter + Score** - Run the expensive logic only on those 50
+1. **Recall** - FAISS grabs top 50 by embedding similarity
+2. **Filter + Score** - Only run the heavy stuff on those 50
 
-With 300 jobs I could technically score everything, but this is the right architecture. If jobs grow to 30k later, it still works.
+Could I just score all 300? Sure. But this scales better if jobs grow to like 30k.
 
-### Hard Constraint Filtering
+### Hard Filters
 
-The assignment says to return an empty list when there are no good matches. That means I need actual filters, not just "lower scores."
+Assignment says return empty list if nothing matches. So I need real filters, not just "lower scores."
 
-I added filters for:
-- **Sponsorship** - If candidate needs visa sponsorship and job doesn't offer it, reject
-- **Experience level** - Junior candidates don't see Staff Engineer roles, people with 2 YOE don't see "8+ years required"
-- **Remote preference** - Only enforce this when the resume explicitly says they want remote (not just because they worked remote before)
+Added filters for example, stuff like:
+- **Sponsorship** - needs visa but job doesn't sponsor? gone
+- **Experience** - junior person seeing Staff Engineer roles? nope. 2 YOE seeing "8+ required"? nope
+- **Remote** - only filter this if the resume actually says they want remote (not just because they worked remote somewhere)
 
-**Tradeoff**: Strict filters might remove borderline matches.
-**What I did**: Added a 1-year buffer on YOE, and only apply location constraints when there's actual evidence.
+**Downside**: might filter out edge cases.
+**Fix**: 1-year buffer on YOE, only apply location filter when there's real evidence.
 
-### Flag-Based Scoring
+### Flag Scoring
 
-I wanted the ranking to be explainable. The jobs already have `greenFlags` (what they want) and `redFlags` (what they want to avoid), so I built scoring around these.
+Jobs have `greenFlags` and `redFlags` already, stuff like "startup experience" or "needs to know Kubernetes." I wanted to use these without calling the LLM 300 times.
 
-Instead of asking the LLM "does this resume match this flag?" 300 times, I:
-- Pre-embed all flags at startup
-- Turn the resume into "evidence chunks" (highlights, skill summaries, company context)
-- Embed those chunks once per request
+So I:
+- Pre-embed all flags when the server starts
+- Turn the resume into chunks (highlights, skills, company context)
+- Embed those once per request  
 - Match flags to chunks with cosine similarity
 
-This gives explanations like "Matches 3 key criteria: startup experience, Python backend..." without any per-job LLM calls.
+Now I get explanations like "Matches 3 criteria: startup experience, Python backend..." without extra API calls.
 
-**Tradeoff**: Embeddings can over-match on generic flags like "communicates well."
-**What I did**: Tiered scoring (stronger matches get more points). With more time I'd downweight generic flags.
+**Downside**: embeddings over-match on vague flags like "communicates well"
+**Fix**: tiered scoring so strong matches count more. Would downweight generic flags given more time.
 
-## Honest Issues I Ran Into
+## Problems I Hit
 
-### LLM Hallucinating Work Preferences
+### LLM Making Up Work Preferences
 
-Early on, the LLM would sometimes see "Company X (Remote)" in someone's work history and decide they have a "remote only" preference. That's wrong, working remote before doesn't mean they require it.
+This one was annoying. The LLM would see "Company X (Remote)" in someone's history and decide they have a "remote only" preference. That's not how it works, just because you worked remote doesn't mean you require it.
 
-This was causing incorrect filtering, so I added strcit validation:
-- Work preference is only set if the resume actually says something like "seeking remote" or "remote only"
-- I require evidence and run regex patterns to verify
-- If the evidence isn't explicit, I reset the preference to null
+Was causing bad filtering so I added validation:
+- Only set work preference if resume actually says "seeking remote" or "remote only"
+- Require evidence and run regex to double check
+- If evidence isn't explicit, reset to null
 
-This is one place I chose deterministic checks over "trust the LLM"
+Sometimes you just can't trust the LLM and need hard rules.
 
-### YOE Is Always Fuzzy
+### YOE Is Never Accurate
 
-Years of experience is hard to calculate reliably. Date formats vary, internships vs full-time is unclear, sometimes roles overlap.
+Calculating years of experience was misleading too. Dates are formatted differently, internships vs full-time is unclear, roles overlap.
 
 What I did:
-- Use the LLM's estimate but add a 1-year buffer when filtering
-- If the job doesn't have an explicit YOE range, fall back to title heuristics (if it says "Staff Engineer" it probably needs 8+ years)
-- Penalize overqualification for entry-level jobs (senior folks applying to junior roles)
+- Use LLM estimate but add 1-year buffer
+- No explicit YOE in job? Use title heuristics (Staff Engineer probably needs 8+)
+- Penalized senior people applying to entry-level stuff
 
-### Scoring Thresholds Are Hand-Tuned
+### Thresholds Were Guesswork
 
-I picked numbers that seemed reasonable from testing with the sample resumes. The main risk is returning too many weak matches.
+I just picked numbers that looked reasonable when testing.
 
-Current approach:
-- Pull 50 jobs in recall for good coverage
-- Apply a minimum score threshold
-- Cap results at 20 max(you can change any thresholds btw)
+Current setup:
+- 50 jobs in recall
+- Minimum score threshold
+- Cap at 20 results (you can change these btw)
 
-With more time I'd actually measure precision and recall using all the sample resumes.
+Would measure actual precision/recall with more time.
 
-## Why No Per-Job LLM Scoring
+## Why Not Just LLM Score Everything?
 
-There was an idea to just ask the LLM "rate this resume against this job 1-10" for each job, but thats really dumb imo.
+Could ask the LLM "rate this resume vs this job 1-10" for each job. Didn't do it because:
 
-- Cost scales with job count (300 calls per request is expensive)
-- Latency becomes unpredictable
-- Harder to debug when something goes wrong
-- You get a number but not really a reason
+- 300 API calls per request = expensive
+- Latency all over the place
+- Hard to debug
+- You get a number but no real reason
 
-Instead I use the LLM only where it's strongest: turning messy text into structured data.
+LLM is good at one thing here: turning messy text into structured data. I let it do that, then use deterministic logic for the rest.
 
-LLMS guess but dont think!!
+## What Works
 
-## Why I Think This Works
-
-- At start, it precomputes everything, so actual requests are quick (1-2 seconds)
-- The constraint filter catches obvious mismatches early (a junior dev won't see staff engineer roles)
-- The work preference validator catches LLM hallucinations before they cause bad filtering
-- Flag matching gives decent explanations without extra API calls
+- Precomputes everything at startup so requests are fast (1-2 sec)
+- Filters catch obvious mismatches early
+- Validation catches LLM hallucinations before they mess up filtering
+- Flag matching gives decent explanations without extra calls
 
 ## What Doesn't Work Great
 
-**Embeddings miss specific keywords**: If a job absolutely needs some sort of experience, embeddings might not weight that heavily enough. I think a hybrid approach of BM25 (keyword search) along with embeddings would help us here.
+**Embeddings miss keywords** - if a job needs something very specifically, embeddings might not catch that. BM25 hybrid search would help.
 
-**Some flags are too generic**: Flags like "moves fast" or "communicates well" match almost any resume. I could decrease the weight for these or require actual keyword overlap.
+**Generic flags match everything** - "moves fast" and "communicates well" match basically any resume. Should downweight these.
 
-**YOE estimation is fuzzy**: The LLM calculates years of experience from the resume, and it's not always right. I added a 1 year buffer to be safe, but edge cases can always slip.
+**YOE is fuzzy** - LLM guesses wrong sometimes. Buffer helps but edge cases slip through.
 
-**Scoring thresholds are hand-tuned**: I picked values that seemed reasonable from testing, but with more time I'd run the sample resumes through and actually measure precision and recall.
+**Hand-tuned thresholds** - would be better to actually measure precision/recall on sample resumes.
 
-## What I'd Add With More Time
+## What I'd Do With More Time
 
-- **Hybrid search** - Combine BM25 keyword matching with embeddings so we don't miss specific skill requirements
-- **Better flag handling** - Decrease weight for generic flags, maybe require keyword overlap for short flags
-- **Vectorized scoring** - Right now I loop through flags in Python, we could speed this up with matrix operations
-- **Evaluation script** - Run all sample resumes, track which jobs they match, then we can tune the thresholds based on what looks right
-- **Resume caching** - Hash the resume text so repeat uploads don't redo extraction
-- **Second-pass LLM** - For just the top 5-10 matches, we can ask LLM to write better explanations (slightly more expensive but just for more explanations)
+- **Hybrid search** - BM25 + embeddings to catch specific skill keywords
+- **Downweight generic flags** - or require keyword overlap for short ones
+- **Vectorize the scoring loop** - matrix ops instead of Python for loop
+- **Evaluation script** - run all sample resumes, measure what matches, tune from there
+- **Cache resumes** - hash the text so repeated resumes don't redo extraction
+- **Second LLM pass** - just for top 5-10 matches, write better explanations(exp again but not as exp as 300 calls)
