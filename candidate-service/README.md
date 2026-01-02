@@ -2,7 +2,7 @@
 This service matches an uploaded resume to relevant jobs using a 4-stage retrieval + reranking pipeline.  
 It makes **one LLM call per request** (resume → structured JSON). All job and flag embeddings are precomputed at startup.
 
-See `EVALUATION.md` for design decisions, tradeoffs, and my personal reflection.
+See EVALUATION.md for design decisions, tradeoffs, and my personal reflection.
 
 ## How It Works
 
