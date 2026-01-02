@@ -1,0 +1,43 @@
+JESSICA PATEL
+jessica.patel@gmail.com | 408-555-9173 | San Jose, CA
+
+SUMMARY
+Frontend-focused developer with recent bootcamp training in modern JavaScript frameworks. Enjoys building clean user interfaces and learning new technologies. Seeking entry-level software opportunities.
+
+TECHNICAL SKILLS
+JavaScript
+HTML
+CSS
+React
+Tailwind CSS
+Git
+REST APIs (basic)
+
+EDUCATION
+Coding Dojo
+Full-Stack Web Development Bootcamp | January 2024 – April 2024
+
+San Jose State University
+Bachelor of Arts in Communication Studies | May 2021
+
+PROJECTS
+Recipe Finder Web App
+- Built a React application that fetches recipes from a public API
+- Implemented search, filtering, and responsive UI
+- Deployed frontend using Netlify
+
+Personal Portfolio Website
+- Designed and built a personal portfolio using React and Tailwind CSS
+- Showcased projects and contact information
+
+WORK EXPERIENCE
+Customer Support Representative
+E-Commerce Startup | San Jose, CA | 2021 – 2023
+- Assisted customers with orders and returns
+- Escalated technical issues to engineering team
+- Documented common user issues and feedback
+
+ADDITIONAL INFORMATION
+- Strong communication skills
+- Actively applying for junior frontend roles
+- Open to learning backend or full-stack development

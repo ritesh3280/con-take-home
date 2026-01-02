@@ -35,7 +35,7 @@ TOP_N_RECALL = 50          # how many jobs to pull from vector search
 MAX_RESULTS = 20           # max jobs to return to user
 GREEN_FLAG_THRESHOLD = 0.45  # min similarity to count as a green flag match
 RED_FLAG_THRESHOLD = 0.45
-MATCH_SCORE_THRESHOLD = 25   # min score to include in results, you can increase to tighten search
+MATCH_SCORE_THRESHOLD = 35   # min score to include in results, you can increase to tighten search, decrease to get more results
 
 BASE_DIR = Path(__file__).parent.parent
 JOBS_PATH = BASE_DIR / "data" / "jobs.json"

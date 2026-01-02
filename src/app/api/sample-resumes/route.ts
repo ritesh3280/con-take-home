@@ -36,7 +36,7 @@ export async function GET(request: Request) {
     }
 
     // Otherwise, return list of all sample resumes
-    const categories = ['experienced', 'new-grads', 'less-impressive', 'remote'];
+    const categories = ['experienced', 'new-grads', 'less-impressive', 'remote', 'trash-resumes'];
     const resumes: Array<{ category: string; filename: string; displayName: string; path: string }> = [];
 
     for (const category of categories) {

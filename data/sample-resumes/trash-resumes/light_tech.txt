@@ -1,0 +1,35 @@
+ALEX KIM
+alex.kim@email.com | 646-555-3012 | Queens, NY
+
+SUMMARY
+Early-career professional with basic programming exposure and an interest in technology roles. Experience supporting internal tools and dashboards. Looking to grow into a more technical position over time.
+
+TECHNICAL SKILLS
+Python (basic)
+SQL (basic queries)
+Excel
+Google Sheets
+Tableau (basic)
+Git (basic)
+
+EDUCATION
+City University of New York (CUNY)
+Bachelor of Science in Business Analytics | May 2022
+
+RELEVANT EXPERIENCE
+Business Operations Analyst
+Local Retail Group | New York, NY | 2022 – 2024
+- Maintained weekly sales reports using Excel and Google Sheets
+- Wrote basic SQL queries to pull data from internal databases
+- Assisted senior analysts with dashboard updates in Tableau
+- Coordinated with engineering team to report bugs and data issues
+
+PROJECTS
+Sales Performance Dashboard
+- Built a Tableau dashboard to visualize monthly sales trends
+- Used SQL queries to extract data from a PostgreSQL database
+- Shared insights with non-technical stakeholders
+
+ADDITIONAL INFORMATION
+- Comfortable working with data but limited production engineering experience
+- Interested in transitioning into a more technical role

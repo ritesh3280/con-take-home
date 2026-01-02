@@ -59,7 +59,8 @@ export default function ResumeUploader({ onSampleSelect, isLoading }: ResumeUplo
     'experienced': 'Experienced Engineers',
     'new-grads': 'New Graduates',
     'less-impressive': 'Less Impressive',
-    'remote': 'Remote / International'
+    'remote': 'Remote / International',
+    'trash-resumes': 'Trash Resumes'
   };
 
   return (
