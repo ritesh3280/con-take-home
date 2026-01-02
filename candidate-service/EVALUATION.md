@@ -60,7 +60,7 @@ Added filters for example, stuff like:
 
 ### Flag Scoring
 
-Jobs have `greenFlags` and `redFlags` already, stuff like "startup experience" or "needs to know Kubernetes." I wanted to use these without calling the LLM 300 times.
+Jobs have green flags and red flags already, stuff like "startup experience" or "needs to know Kubernetes." I wanted to use these without calling the LLM 300 times.
 
 So I:
 - Pre-embed all flags when the server starts
