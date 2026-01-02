@@ -1,0 +1,82 @@
+ROBERT CHANG
+Denver, CO | robert.chang@email.com | (720) 555-4821
+LinkedIn: linkedin.com/in/robertchang | GitHub: github.com/rchang
+
+PROFESSIONAL SUMMARY
+
+Full-stack Software Engineer with 6 years of experience building web applications end-to-end. Proficient in modern JavaScript frameworks, Python, and cloud infrastructure. Track record of shipping features that drive business impact and improve user experience.
+
+TECHNICAL SKILLS
+
+Frontend: React, Next.js, TypeScript, Redux, Tailwind CSS, HTML/CSS
+Backend: Node.js, Python, Express, FastAPI, Django, REST APIs, GraphQL
+Databases: PostgreSQL, MongoDB, MySQL, Redis
+Cloud & DevOps: AWS (EC2, S3, Lambda, RDS, CloudFront), Docker, CI/CD (GitHub Actions)
+Tools: Git, Postman, Datadog, Sentry, Stripe API, Vercel, Heroku
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer | Toast, Denver, CO | April 2022 - Present
+- Full-stack engineer on payments team building features for restaurant POS system
+- Developed online ordering platform handling $50M+ in annual transactions
+- Built backend payment processing system integrating with Stripe, Square, and Clover APIs
+- Implemented real-time order tracking using WebSockets reducing customer support tickets by 30%
+- Created admin dashboard with React and TypeScript for restaurant managers
+- Led initiative to migrate monolithic app to microservices architecture
+- On-call rotation: maintained 99.9% uptime for payment processing
+- Technologies: React, TypeScript, Node.js, PostgreSQL, Redis, AWS, Stripe
+
+Software Engineer | Gusto, Denver, CO | January 2020 - March 2022
+- Built features for payroll and benefits platform serving 200K+ small businesses
+- Developed employee onboarding flow increasing completion rate from 65% to 82%
+- Created automated tax calculation service processing $2B+ in annual payroll
+- Implemented SSO integration with Google Workspace and Okta
+- Optimized database queries reducing page load times by 50%
+- Collaborated with design team on new UI redesign affecting 1M+ users
+- Technologies: React, Ruby on Rails, PostgreSQL, Redis, AWS
+
+Software Engineer | SendGrid (Twilio), Denver, CO | June 2018 - December 2019
+- Developed email marketing automation features for SendGrid platform
+- Built drag-and-drop email template builder using React and custom rendering engine
+- Created analytics dashboard displaying email campaign metrics (opens, clicks, bounces)
+- Implemented rate limiting for email API preventing abuse and ensuring deliverability
+- Wrote comprehensive API documentation improving developer adoption
+- Technologies: React, Python, Flask, MongoDB, Redis, AWS
+
+Junior Software Engineer | Pivotal Labs (consulting), San Francisco, CA | August 2017 - May 2018
+- Worked on client projects using Agile/XP methodologies and pair programming
+- Built features for enterprise clients in healthcare and finance industries
+- Participated in TDD/BDD practices with 90%+ test coverage
+- Technologies: React, Node.js, Spring Boot, PostgreSQL
+
+EDUCATION
+
+University of Colorado Boulder
+Bachelor of Science in Computer Science | May 2017
+Minor in Applied Mathematics
+
+NOTABLE PROJECTS & ACHIEVEMENTS
+
+SaaS Starter Kit (Open Source) | Next.js, TypeScript, Prisma, Stripe
+- Built open-source template for launching SaaS products quickly
+- Includes authentication, payments, admin dashboard, and email integration
+- 3.2K+ stars on GitHub, used by 500+ developers
+- Featured in Hacker News front page
+
+Home Lab & Self-Hosting
+- Manage personal Kubernetes cluster on Raspberry Pi for learning and experimentation
+- Host personal services: Nextcloud, Plex, Pi-hole, Home Assistant
+- Configured monitoring with Prometheus and Grafana
+
+CERTIFICATIONS & PROFESSIONAL DEVELOPMENT
+
+- AWS Certified Developer - Associate
+- Completed "System Design for Interviews" course (Educative.io)
+- Active participant in local Denver tech meetups and hackathons
+
+ADDITIONAL INFORMATION
+
+- Comfortable working across the entire stack from database to frontend
+- Strong communication skills working with product, design, and business teams
+- Experience mentoring junior engineers through code reviews and pairing sessions
+- Open to remote or hybrid work arrangements

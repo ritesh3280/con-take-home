@@ -1,0 +1,105 @@
+LUCAS SILVA
+São Paulo, Brazil (Remote Available - EST Time Zone)
+lucas.silva@email.com | +55 11 98765-4321
+LinkedIn: linkedin.com/in/lucassilva | GitHub: github.com/lsilva
+Portfolio: lucassilva.dev
+
+RESUMO PROFISSIONAL / PROFESSIONAL SUMMARY
+
+Mobile Software Engineer with 5 years of experience building iOS and Android applications for startups and enterprises across Latin America. Expertise in React Native, Flutter, and native development. Experienced working remotely with US companies. Fluent in Portuguese, Spanish, and English.
+
+TECHNICAL SKILLS
+
+Mobile: React Native, Flutter, Swift (iOS), Kotlin (Android), Expo
+Frontend: JavaScript, TypeScript, React, HTML/CSS
+Backend: Node.js, Express, Firebase, REST APIs
+Databases: SQLite, Realm, Firebase Firestore, PostgreSQL
+Cloud & Tools: AWS (S3, Lambda), Google Cloud, Git, CI/CD (Fastlane, Bitrise)
+Other: Redux, MobX, GraphQL, Push Notifications, In-App Purchases, App Store deployment
+
+PROFESSIONAL EXPERIENCE
+
+Senior Mobile Engineer | Nubank, São Paulo, Brazil | March 2021 - Present
+- Mobile engineer at Latin America's largest fintech (50M+ users)
+- Developed features for banking super app used daily by millions across Brazil, Mexico, and Colombia
+- Built credit card management interface with React Native reducing customer support calls by 20%
+- Implemented biometric authentication (Face ID, Touch ID, fingerprint) for secure transactions
+- Optimized app performance reducing startup time by 35% and crash rate by 50%
+- Led A/B testing experiments increasing user engagement by 18%
+- Mentored 2 junior mobile developers and established code review practices
+- Technologies: React Native, TypeScript, Redux, GraphQL, Firebase, AWS
+
+Mobile Developer (Contractor) | US-based HealthTech Startup, Remote | June 2020 - February 2021
+- Built telemedicine mobile app connecting patients with doctors remotely
+- Developed video calling feature using WebRTC for virtual consultations
+- Implemented real-time chat with push notifications
+- Created appointment scheduling system with calendar integration
+- Published app on iOS App Store and Google Play Store
+- Technologies: Flutter, Dart, Firebase, WebRTC, Node.js
+
+Mobile Developer | iFood, São Paulo, Brazil | April 2019 - May 2020
+- Worked on food delivery app serving 30M+ users across Latin America
+- Built restaurant discovery and ordering features with React Native
+- Implemented real-time order tracking with GPS and map integration
+- Developed offline mode allowing users to browse menus without internet
+- Optimized app bundle size reducing download size by 30%
+- Technologies: React Native, Redux, Google Maps API, Firebase
+
+Junior Mobile Developer | Movile, Campinas, Brazil | August 2017 - March 2019
+- Developed features for multiple mobile apps in Movile's portfolio
+- Built payment integration with Brazilian payment methods (Pix, Boleto)
+- Implemented analytics and crash reporting with Firebase
+- Participated in code reviews and agile sprint planning
+- Technologies: React Native, Native iOS/Android, Firebase, REST APIs
+
+EDUCATION
+
+Universidade de São Paulo (USP), São Paulo, Brazil
+Bachelor's Degree in Computer Science | 2013 - 2017
+GPA: 8.5/10.0 (equivalent to 3.5/4.0 GPA)
+
+PROJECTS
+
+Food Delivery App Template (Open Source) | React Native, TypeScript, Firebase
+- Built production-ready template for food delivery apps
+- Includes restaurant browsing, cart, checkout, and order tracking
+- 800+ stars on GitHub, used by 50+ startups in Latin America
+
+Brazilian Payment Methods SDK | React Native
+- Created library supporting Brazilian payment methods (Pix, Boleto, credit cards)
+- Simplifies payment integration for apps targeting Brazilian market
+- 300+ downloads on npm
+
+Personal Finance App | Flutter, Firebase
+- Built personal finance tracking app for Brazilian market
+- Supports multiple currencies and Brazilian bank integrations
+- 10K+ downloads on Google Play Store
+
+CERTIFICATIONS
+
+- Google Associate Android Developer
+- AWS Certified Cloud Practitioner
+- React Native Specialization (Coursera)
+
+OPEN SOURCE CONTRIBUTIONS
+
+- Contributed bug fixes to React Native core (3 merged PRs)
+- Active contributor to Flutter community packages
+- Maintainer of Brazilian fintech utilities library (400+ stars)
+
+LANGUAGES
+
+- Portuguese (Native)
+- Spanish (Fluent)
+- English (Fluent - TOEFL 105/120)
+
+ADDITIONAL INFORMATION
+
+- Brazilian citizen open to remote work with US companies
+- Available for EST/PST working hours overlap (flexible schedule)
+- Experience working with distributed teams across US, Europe, and Latin America
+- Strong understanding of Latin American market and payment systems
+- Mobile apps published: 12+ apps on App Store and Google Play
+- Total app downloads: 50M+ combined
+- Available as contractor or full-time employee
+- Open to relocation for the right opportunity

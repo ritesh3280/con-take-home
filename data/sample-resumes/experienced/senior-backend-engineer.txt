@@ -1,0 +1,62 @@
+DAVID WILSON
+Seattle, WA | david.wilson@email.com | (206) 555-7234
+LinkedIn: linkedin.com/in/davidwilson | GitHub: github.com/dwilson
+
+PROFESSIONAL SUMMARY
+
+Senior Backend Engineer with 8 years of experience building scalable distributed systems and microservices. Expertise in Go, Python, and cloud infrastructure. Strong track record of leading technical initiatives and mentoring engineers.
+
+TECHNICAL SKILLS
+
+Languages: Go, Python, Java, SQL, Bash
+Backend: gRPC, REST APIs, GraphQL, WebSockets, message queues (RabbitMQ, Kafka)
+Databases: PostgreSQL, MongoDB, Redis, Cassandra, Elasticsearch
+Cloud & DevOps: AWS (EC2, S3, Lambda, ECS, RDS), Kubernetes, Docker, Terraform, CI/CD
+Monitoring: Datadog, Prometheus, Grafana, ELK stack
+Architecture: Microservices, event-driven systems, distributed systems, API design
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer | Snowflake, Seattle, WA | March 2021 - Present
+- Lead backend engineer for data sharing platform handling 10M+ daily transactions
+- Architected and implemented microservices migration reducing deployment time from 2 hours to 15 minutes
+- Built event-driven system using Kafka processing 50K events/second with 99.9% uptime
+- Designed caching layer with Redis reducing database load by 60% and improving response time by 40%
+- Mentored 4 junior engineers and conducted code reviews across team of 12
+- Technologies: Go, Python, PostgreSQL, Redis, Kafka, Kubernetes, AWS
+
+Software Engineer II | Expedia Group, Seattle, WA | June 2018 - February 2021
+- Developed backend services for hotel booking platform serving 100M+ users annually
+- Built real-time pricing engine with Go handling 5000 req/sec with p99 latency under 100ms
+- Implemented distributed tracing with Jaeger improving debugging efficiency by 70%
+- Created automated testing framework reducing QA time by 50%
+- Led migration from monolith to microservices architecture for payments service
+- On-call rotation: maintained 99.95% uptime SLA
+- Technologies: Go, Java, Spring Boot, PostgreSQL, MongoDB, Kubernetes, AWS
+
+Software Engineer | Zillow, Seattle, WA | July 2016 - May 2018
+- Built backend APIs for home valuation and search features
+- Developed data pipeline processing 150M property records daily using Python and Airflow
+- Optimized SQL queries reducing database costs by $15K/month
+- Implemented rate limiting and authentication middleware for public APIs
+- Collaborated with data science team to deploy ML models to production
+- Technologies: Python, Flask, PostgreSQL, Redis, AWS (EC2, S3, Lambda), Docker
+
+EDUCATION
+
+University of California, Berkeley
+Bachelor of Science in Computer Science | May 2016
+GPA: 3.7/4.0
+
+NOTABLE PROJECTS & ACHIEVEMENTS
+
+- Designed and implemented distributed rate limiting service handling 1M+ requests/second
+- Reduced cloud infrastructure costs by 30% through resource optimization and auto-scaling
+- Led incident response for major outage, reduced MTTR from 4 hours to 45 minutes
+- Speaker at GopherCon 2023: "Building Resilient Microservices in Go"
+- Open source contributor: contributed to kubernetes/kubernetes, grpc/grpc-go
+
+CERTIFICATIONS
+
+- AWS Certified Solutions Architect - Professional
+- Certified Kubernetes Administrator (CKA)

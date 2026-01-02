@@ -1,0 +1,107 @@
+LI ZHANG
+Beijing, China (Open to US Opportunities)
+li.zhang@email.com | +86 138 0123 4567
+LinkedIn: linkedin.com/in/lizhang | GitHub: github.com/lizhang
+
+PROFESSIONAL SUMMARY
+
+AI/ML Engineer with 4 years of experience building large-scale machine learning systems and NLP applications. Expertise in deep learning, computer vision, and natural language processing. Educated at top Chinese university (Tsinghua) with strong research background. Seeking opportunities in the United States.
+
+TECHNICAL SKILLS
+
+Machine Learning: PyTorch, TensorFlow, Scikit-learn, Keras, Hugging Face Transformers
+Deep Learning: CNN, RNN, LSTM, Transformer, attention mechanisms, transfer learning
+NLP: BERT, GPT, Word2Vec, text classification, sentiment analysis, machine translation
+Computer Vision: Object detection, image segmentation, ResNet, YOLO, OpenCV
+MLOps: MLflow, TensorBoard, Docker, Kubernetes, AWS SageMaker
+Languages: Python, C++, Java, SQL
+Tools: Pandas, NumPy, Matplotlib, Jupyter, Git
+Cloud: AWS, Alibaba Cloud, Tencent Cloud
+
+PROFESSIONAL EXPERIENCE
+
+Senior Machine Learning Engineer | ByteDance, Beijing, China | March 2022 - Present
+- Building recommendation algorithms for international content platform (TikTok/Douyin)
+- Developed deep learning models improving content recommendation CTR by 15%
+- Implemented large-scale model training pipeline processing 1B+ user interactions daily
+- Built real-time inference system serving 100M+ users with <50ms latency
+- Optimized model size by 60% using quantization and pruning techniques
+- Collaborated with US-based teams on model deployment and A/B testing
+- Technologies: PyTorch, TensorFlow, Python, Spark, Kafka, Redis, Kubernetes
+
+Machine Learning Engineer | Alibaba Cloud, Hangzhou, China | July 2020 - February 2022
+- Worked on AI platform team providing ML services to enterprise customers
+- Developed NLP models for text classification and named entity recognition
+- Built AutoML system reducing model development time by 70%
+- Created computer vision models for e-commerce product image recognition (95% accuracy)
+- Implemented distributed training framework supporting models up to 10B parameters
+- Published 2 internal technical reports on model optimization techniques
+- Technologies: TensorFlow, PyTorch, PAI (Platform for AI), Python, Docker
+
+Research Intern | Microsoft Research Asia, Beijing, China | Summer 2019
+- Conducted research on neural machine translation under senior researchers
+- Implemented attention mechanisms improving translation quality by 8 BLEU points
+- Experimented with pre-training methods for low-resource language pairs
+- Contributed to research paper published at ACL 2020
+- Technologies: PyTorch, fairseq, Python
+
+EDUCATION
+
+Tsinghua University, Beijing, China
+Master of Science in Computer Science | September 2018 - June 2020
+Specialization: Artificial Intelligence
+GPA: 3.9/4.0 | Outstanding Graduate Award
+Thesis: "Improving Neural Machine Translation with Multi-Head Attention"
+
+Tsinghua University, Beijing, China
+Bachelor of Engineering in Computer Science | September 2014 - June 2018
+GPA: 3.8/4.0 | Top 5% of Class
+
+PUBLICATIONS & RESEARCH
+
+- L. Zhang, et al. "Attention-Based Neural Machine Translation for Low-Resource Languages" - ACL 2020
+- Co-authored 2 papers on recommendation systems (under review at SIGIR 2024)
+- Presented at China Machine Learning Summit 2023
+
+PROJECTS
+
+Open Source Contributions:
+- Contributed to PyTorch (merged 3 PRs on distributed training)
+- Contributed to Hugging Face Transformers (documentation improvements)
+
+Chinese Text Classification System | PyTorch, BERT
+- Built multi-class text classifier for Chinese news articles
+- Fine-tuned Chinese BERT achieving 92% accuracy on 20-class dataset
+- Deployed as REST API handling 1000+ requests/minute
+
+Image Search Engine | TensorFlow, ResNet, FAISS
+- Developed image similarity search using deep learning embeddings
+- Indexed 10M+ images with sub-second search time
+- Built web interface for visual search
+
+COMPETITIONS
+
+- ImageNet Competition 2020: Top 50 globally
+- Kaggle Master (competitions rating: 2100+, silver medals: 3)
+- Winner, ByteDance Internal AI Competition 2023
+
+TECHNICAL CERTIFICATIONS
+
+- AWS Certified Machine Learning - Specialty
+- Deep Learning Specialization (deeplearning.ai)
+- TensorFlow Developer Certificate
+
+LANGUAGES
+
+- Mandarin Chinese (Native)
+- English (Fluent - TOEFL 110/120, IELTS 7.5/9.0)
+
+ADDITIONAL INFORMATION
+
+- Open to relocation to the United States
+- Seeking H-1B or O-1 visa sponsorship
+- Strong research background with publication record
+- Experience working with international teams at ByteDance
+- Familiar with US tech industry standards and practices
+- Available for remote or in-person positions
+- Chinese passport holder

@@ -1,0 +1,104 @@
+OLIVER WILLIAMS
+London, United Kingdom (Open to US Remote or Relocation)
+oliver.williams@email.com | +44 7700 900123
+LinkedIn: linkedin.com/in/oliverwilliams | GitHub: github.com/owilliams
+Portfolio: oliverwilliams.dev
+
+PROFESSIONAL SUMMARY
+
+Full-stack Software Engineer with 6 years of experience building web applications across fintech and e-commerce sectors in Europe. Strong expertise in TypeScript, React, Node.js, and cloud infrastructure. Seeking opportunities in the United States with visa sponsorship or remote work. British citizen with right to work in UK and EU.
+
+TECHNICAL SKILLS
+
+Frontend: TypeScript, React, Next.js, Vue.js, Redux, Tailwind CSS, Jest, Cypress
+Backend: Node.js, Express, NestJS, Python, Django, REST APIs, GraphQL
+Databases: PostgreSQL, MongoDB, MySQL, Redis
+Cloud & DevOps: AWS (EC2, S3, Lambda, RDS, CloudFront), Docker, Kubernetes, CI/CD
+Tools: Git, GitHub Actions, Vercel, Stripe API, WebSockets, Elasticsearch
+Other: Agile/Scrum, microservices, TDD, system design
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer | Revolut, London, UK | April 2021 - Present
+- Full-stack engineer on payments team serving 30M+ customers across Europe and UK
+- Built instant payment features processing £500M+ monthly transactions
+- Developed React dashboard for business accounts with real-time transaction monitoring
+- Implemented fraud detection alerts reducing false positives by 35%
+- Created Node.js microservices with 99.98% uptime handling 10K req/sec
+- Led migration from monolith to event-driven microservices architecture
+- Mentored 3 junior engineers and conducted technical interviews
+- Technologies: TypeScript, React, Node.js, PostgreSQL, Kafka, Kubernetes, AWS
+
+Software Engineer | TransferWise (now Wise), London, UK | June 2019 - March 2021
+- Developed international money transfer platform features
+- Built multi-currency wallet interface with React supporting 50+ currencies
+- Implemented backend services for currency exchange rate calculations
+- Created automated testing pipeline reducing bugs by 40%
+- Optimized database queries improving page load time by 50%
+- Worked with distributed team across London, Tallinn, and Singapore
+- Technologies: TypeScript, React, Node.js, Python, PostgreSQL, AWS
+
+Software Developer | ASOS, London, UK | August 2018 - May 2019
+- E-commerce platform serving 20M+ customers in 200+ countries
+- Built product recommendation engine increasing conversions by 12%
+- Developed checkout flow improvements reducing cart abandonment by 8%
+- Implemented A/B testing framework for frontend experiments
+- Created responsive mobile-first designs with React
+- Technologies: React, Node.js, MongoDB, Redis, AWS
+
+Junior Developer | Barclays, London, UK | July 2016 - July 2018
+- Graduate programme in digital banking team
+- Developed customer-facing banking features for mobile and web
+- Built internal tools for operations team improving efficiency by 25%
+- Participated in Agile ceremonies and paired programming sessions
+- Technologies: JavaScript, Angular, Java, Spring Boot, Oracle DB
+
+EDUCATION
+
+University of Edinburgh, Edinburgh, Scotland, UK
+Bachelor of Science (Honours) in Computer Science | 2013 - 2016
+First Class Honours (equivalent to 4.0 GPA)
+Recipient of Academic Excellence Scholarship
+
+A-Levels: Mathematics (A*), Further Mathematics (A*), Physics (A*), Computer Science (A)
+
+NOTABLE PROJECTS
+
+Crypto Portfolio Tracker (Open Source) | Next.js, TypeScript, PostgreSQL
+- Built web app for tracking cryptocurrency investments across exchanges
+- Real-time price updates using WebSocket connections
+- 1.2K+ stars on GitHub, featured on ProductHunt
+- Used by 5000+ users monthly
+
+Payment Processing Library | TypeScript, Stripe, Node.js
+- Created npm package simplifying Stripe payment integration
+- Downloaded 10K+ times, used in production by 100+ projects
+- Comprehensive documentation and test coverage
+
+SPEAKING & WRITING
+
+- Speaker, London TypeScript Meetup 2023: "Type-Safe API Development with tRPC"
+- Published technical articles on dev.to (25K+ total views)
+- Regular contributor to open source projects
+
+CERTIFICATIONS
+
+- AWS Certified Developer - Associate
+- Stripe Certified Professional
+
+ADDITIONAL INFORMATION
+
+- British citizen with right to work in UK and EU
+- Open to US opportunities with visa sponsorship (E-3, H-1B, or O-1 visa)
+- Available for remote positions or relocation to US
+- Strong English communication (native speaker)
+- Experience working with globally distributed teams
+- Comfortable with US time zones (EST/PST overlap)
+- Clean criminal record, eligible for background checks
+- UK passport holder, no US work authorization currently
+
+INTERESTS
+
+- Open source maintainer and contributor
+- Active member of London tech community
+- Hackathon participant and mentor

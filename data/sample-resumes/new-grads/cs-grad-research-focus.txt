@@ -1,0 +1,79 @@
+ALEXANDRA KIM
+Cambridge, MA | akim@mit.edu | (617) 555-9087
+LinkedIn: linkedin.com/in/alexandrakim | GitHub: github.com/alexkim
+
+EDUCATION
+
+Massachusetts Institute of Technology (MIT), Cambridge, MA
+Bachelor of Science in Computer Science and Engineering | GPA: 3.9/4.0 | June 2024
+Concentration: Artificial Intelligence and Machine Learning
+Thesis: "Efficient Fine-tuning Methods for Large Language Models"
+
+RESEARCH EXPERIENCE
+
+Undergraduate Researcher | MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)
+September 2022 - Present | Advisor: Prof. Sarah Thompson
+- Conducting research on parameter-efficient fine-tuning methods for large language models
+- Developed novel adapter architecture reducing fine-tuning parameters by 85% while maintaining performance
+- Implemented experiments using PyTorch, Hugging Face Transformers, and DeepSpeed
+- Co-authored paper accepted to EMNLP 2024: "AdapterFusion: Efficient Multi-Task Learning for LLMs"
+- Presented research at MIT UROP symposium and New England Machine Learning Day
+
+Summer Research Intern | Microsoft Research, Redmond, WA | June 2023 - August 2023
+- Worked on conversational AI team researching dialogue systems and context understanding
+- Implemented attention mechanism variants for improving long-context understanding in chatbots
+- Conducted large-scale experiments on Azure ML with models up to 7B parameters
+- Contributed to internal research report influencing product roadmap for Microsoft 365 Copilot
+
+Research Assistant | MIT Spoken Language Systems Group | January 2022 - August 2022
+- Assisted in speech recognition research focusing on low-resource languages
+- Collected and annotated speech dataset for Mandarin-English code-switching
+- Trained acoustic models using Kaldi and ESPnet frameworks
+- Improved word error rate by 12% through data augmentation techniques
+
+TECHNICAL SKILLS
+
+Machine Learning: PyTorch, TensorFlow, Hugging Face, scikit-learn, JAX
+NLP: Transformers, BERT, GPT, T5, LLaMA, tokenization, embeddings
+Languages: Python, C++, Java, SQL, R
+Tools: Git, Docker, Weights & Biases, MLflow, Jupyter, Linux, CUDA
+Other: NumPy, Pandas, Matplotlib, distributed training, model optimization
+
+PUBLICATIONS & PRESENTATIONS
+
+- A. Kim, et al. "AdapterFusion: Efficient Multi-Task Learning for LLMs" - EMNLP 2024 (accepted)
+- Poster presentation: "Parameter-Efficient Transfer Learning" - MIT UROP Symposium 2024
+- Lightning talk: "Scaling Language Models" - Boston ML Summit 2023
+
+PROJECTS
+
+MultiLingualBERT Fine-tuning Framework | Python, PyTorch, Transformers
+- Built open-source framework for fine-tuning BERT models on multilingual tasks
+- Implemented mixed-precision training and gradient accumulation for memory efficiency
+- Supports 100+ languages with pre-built tokenizers and evaluation metrics
+- 200+ stars on GitHub, used by researchers at 5 universities
+
+Code Summarization Tool | Python, CodeBERT, Flask
+- Developed tool generating natural language summaries of code functions
+- Fine-tuned CodeBERT model on dataset of 100K Python functions from GitHub
+- Built web interface for developers to analyze their code
+- Achieved BLEU score of 24.3 on held-out test set
+
+TEACHING EXPERIENCE
+
+Teaching Assistant | MIT 6.036 (Introduction to Machine Learning) | Fall 2023
+- Held weekly recitations for 80 students covering ML fundamentals
+- Developed problem sets on neural networks and optimization
+- Graded assignments and provided detailed feedback
+
+HONORS & AWARDS
+
+- MIT Presidential Fellowship (2020-2024)
+- Best Undergraduate Research Paper, MIT EECS Department (2024)
+- Putnam Mathematical Competition: Honorable Mention (2022)
+- USA Computing Olympiad: Gold Division (2019)
+
+ACTIVITIES
+
+- Member, MIT Association for Computing Machinery (ACM) Student Chapter
+- Volunteer, MIT SPLASH program (teaching ML to high school students)

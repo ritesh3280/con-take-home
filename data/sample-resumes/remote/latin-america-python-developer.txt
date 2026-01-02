@@ -1,0 +1,92 @@
+KEVYN FRANCO
+Lima, Peru (Open to US Remote Positions)
+kevyn.franco@email.com | +51 999 123 456
+LinkedIn: linkedin.com/in/kevynfranco | GitHub: github.com/kfranco
+
+PROFESSIONAL SUMMARY
+
+Software Engineer with 4+ years of experience building web and mobile applications using Python, JavaScript, and cloud technologies. Specialized in Django, FastAPI, React, and AWS. Experienced working remotely with US-based companies and international teams. Fluent in Spanish and English.
+
+TECHNICAL SKILLS
+
+Backend: Python, Django, Flask, FastAPI, Node.js, REST APIs, GraphQL
+Frontend: JavaScript, React, Vue.js, Flutter, HTML/CSS, Tailwind
+Cloud & DevOps: AWS (EC2, S3, Lambda, RDS), GCP, Azure, Docker, CI/CD
+Databases: PostgreSQL, MySQL, MongoDB, Redis
+AI/ML: LangChain, OpenAI API, prompt engineering, vector databases
+Languages: Python, JavaScript, Dart, C#, SQL
+Other: Git, Agile/Scrum, microservices, e-commerce platforms
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer | Silvics Solutions LLC, United States (Remote) | January 2023 - August 2024
+- Developed full-stack applications for US-based clients in e-commerce and FinTech sectors
+- Built Django REST APIs handling 50K+ daily requests with 99.5% uptime
+- Implemented payment processing integrations with Stripe and PayPal
+- Created React admin dashboard for managing orders and inventory
+- Collaborated with distributed team across 3 time zones using Agile methodology
+- Technologies: Python, Django, React, PostgreSQL, AWS, Docker
+
+Python Developer | Globant, Lima, Peru | February 2021 - February 2023
+- Worked on digital transformation projects for Fortune 500 clients in e-commerce, education, and FinTech
+- Developed microservices architecture using Django and FastAPI
+- Built RESTful APIs consumed by web and mobile applications
+- Implemented authentication and authorization systems using JWT and OAuth2
+- Optimized database queries reducing response time by 40%
+- Participated in code reviews and mentored junior developers
+- Technologies: Python, Django, FastAPI, MySQL, PostgreSQL, Git, Scrum
+
+Software Engineer (Freelance) | Self Financial, United States (Remote) | November 2022 - December 2022
+- Developed features for credit-building FinTech application
+- Built backend services with Python and React frontend components
+- Implemented secure payment processing workflows
+- Technologies: Python, React, PostgreSQL, AWS
+
+Software Engineer (Freelance) | Numerade, United States (Remote) | February 2022 - December 2022
+- Worked on online education platform serving 1M+ students
+- Built video streaming infrastructure and content management system
+- Developed Python services for processing and indexing educational content
+- Implemented search functionality using Elasticsearch
+- Technologies: Python, Django, React, AWS, Elasticsearch
+
+ADDITIONAL EXPERIENCE
+
+- Franco Expert Global (Self-employed): Providing software consulting and development services for small to medium businesses (2022-Present)
+- Multiple freelance projects building web applications, mobile apps, and cloud solutions
+
+EDUCATION
+
+Universidad de Lima, Lima, Peru
+Bachelor's Degree in Software Engineering | 2012 - 2020
+
+CERTIFICATIONS & TRAINING
+
+- AWS Certified Cloud Practitioner
+- Scrum Fundamentals Certified
+- Professional Scrum Master I (PSM I)
+- Agile Software Development Certification
+
+PROJECTS
+
+E-Commerce Platform | Django, React, PostgreSQL, Stripe
+- Built full-stack e-commerce solution with shopping cart, payment processing, and admin dashboard
+- Implemented product search with filters and recommendations
+- Deployed on AWS with auto-scaling and load balancing
+
+AI Chatbot with LangChain | Python, LangChain, OpenAI, FastAPI
+- Developed intelligent chatbot for customer support using LLMs
+- Implemented RAG (Retrieval-Augmented Generation) for answering FAQs
+- Integrated with WhatsApp and Telegram APIs
+
+LANGUAGES
+
+- Spanish (Native)
+- English (Fluent - C1 Level)
+
+ADDITIONAL INFORMATION
+
+- Open to remote positions with US-based companies
+- Available for EST/PST working hours overlap
+- Experience collaborating with cross-cultural teams
+- Strong communication skills in English (written and verbal)
+- Authorized to work remotely for US companies as contractor

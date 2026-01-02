@@ -1,0 +1,57 @@
+MICHAEL RODRIGUEZ
+michael.rodriguez@gmail.com | 917-555-8421 | New York, NY
+Portfolio: michaelrodriguez.dev | GitHub: github.com/mrodriguez
+
+SUMMARY
+
+Former marketing professional transitioning to software engineering. Completed intensive full-stack bootcamp with hands-on experience building modern web applications. Passionate about creating user-friendly interfaces and solving complex problems with code.
+
+TECHNICAL SKILLS
+
+Languages: JavaScript, HTML, CSS, SQL
+Frontend: React, Redux, Tailwind CSS, Responsive Design
+Backend: Node.js, Express, RESTful APIs
+Tools: Git, GitHub, Postman, VS Code, Figma
+
+EDUCATION
+
+General Assembly, New York, NY
+Software Engineering Immersive Bootcamp | December 2023 - March 2024
+- 500+ hour immersive program covering full-stack web development
+- Built 4 full-stack projects from concept to deployment
+
+New York University, New York, NY
+Bachelor of Arts in Marketing | May 2019
+
+PROJECTS
+
+FitTrack - Fitness Goal Tracking App | React, Node.js, PostgreSQL, Express
+- Designed and built full-stack application for users to log workouts and track fitness goals
+- Implemented user authentication and authorization with JWT tokens
+- Created RESTful API with Express handling CRUD operations for workout data
+- Deployed frontend on Netlify and backend on Render with PostgreSQL database
+
+BookSwap - Local Book Exchange Platform | React, Node.js, MongoDB
+- Developed community platform where users can list books for trade or sale
+- Built real-time messaging feature using Socket.io for user-to-user communication
+- Integrated Google Maps API for showing book locations on interactive map
+- Designed mobile-responsive interface with Tailwind CSS
+
+Weather Dashboard | React, OpenWeather API
+- Created weather app displaying current conditions and 5-day forecast
+- Implemented location search with autocomplete functionality
+- Stored user's favorite cities in localStorage for quick access
+
+RELEVANT WORK EXPERIENCE
+
+Digital Marketing Specialist | BrightEdge Marketing, New York, NY | 2019 - 2023
+- Managed social media campaigns generating 2M+ impressions monthly
+- Analyzed web analytics using Google Analytics to optimize marketing strategies
+- Collaborated with design and content teams to deliver projects on tight deadlines
+- Demonstrated strong problem-solving skills managing multiple client accounts
+
+ADDITIONAL INFORMATION
+
+- Active contributor to open source projects on GitHub
+- Completed online courses in JavaScript algorithms and data structures (freeCodeCamp)
+- Available for immediate start

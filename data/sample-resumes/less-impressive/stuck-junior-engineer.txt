@@ -1,0 +1,100 @@
+ANDREW PETERSON
+Minneapolis, MN | andrew.peterson@email.com | (612) 555-7634
+LinkedIn: linkedin.com/in/andrewpete
+
+PROFESSIONAL SUMMARY
+
+Software developer with 5 years of experience maintaining legacy applications. Detail-oriented and reliable team member.
+
+TECHNICAL SKILLS
+
+Languages: Java, SQL, JavaScript, HTML, CSS
+Frameworks: Spring Framework (older versions), jQuery
+Databases: Oracle Database, MySQL
+Tools: Eclipse, SVN, Jenkins
+Other: Waterfall methodology, bug tracking (Jira)
+
+PROFESSIONAL EXPERIENCE
+
+Junior Software Developer | Regional Insurance Company, Minneapolis, MN | June 2019 - Present (5+ years)
+- Maintain legacy Java applications for insurance claims processing
+- Fix bugs reported by QA team and users
+- Update existing reports using SQL queries
+- Make minor UI changes to internal web applications
+- Attend daily standup meetings
+- Document code changes in company wiki
+
+Responsibilities:
+- Bug fixes for 20+ year old codebase
+- Small enhancements to existing features (following detailed specifications)
+- Database query optimization (sometimes)
+- Code reviews (reviewing others' work, not leading)
+- On-call rotation (once every 8 weeks)
+
+Key Achievements:
+- Maintained 95% bug-free record (according to QA)
+- Completed assigned tickets on time
+- Never missed a deadline
+- Perfect attendance record
+
+Technologies Used: Java 8, Spring Framework 3.x, Oracle Database 11g, JSP, jQuery, SVN
+
+Note: Requested several times to work on newer technologies or get promoted to mid-level developer, but company has limited budget for training and focuses on maintaining existing systems. Still waiting for growth opportunities.
+
+EDUCATION
+
+Minnesota State University, Minneapolis, MN
+Bachelor of Science in Computer Science | Graduated May 2019
+GPA: 3.1/4.0
+
+Relevant Coursework: Data Structures, Algorithms, Database Management, Software Engineering
+
+INTERNSHIPS (during college)
+
+Software Development Intern | Same Insurance Company | Summer 2018
+- 3-month internship that led to full-time offer
+- Worked on same legacy systems I maintain now
+- Fixed small bugs and wrote test cases
+
+CERTIFICATIONS
+
+- Oracle Certified Associate, Java SE 8 Programmer (obtained 2019)
+- Tried to get AWS certification but haven't passed yet (took test twice)
+
+PROJECTS
+
+Personal Projects:
+- Started building a personal finance app in 2020 (not finished)
+- Created simple portfolio website (basic HTML/CSS, not updated since 2019)
+- Attempted to learn React in 2021 (got through a few tutorials)
+
+GitHub: Only 2 repositories (both incomplete personal projects), minimal activity
+
+PROFESSIONAL DEVELOPMENT
+
+- Attended local Java user group meetings (2019-2020, stopped going)
+- Started online course on microservices (didn't complete)
+- Company training: mainly focused on internal systems and processes
+
+ADDITIONAL INFORMATION
+
+Strengths:
+- Reliable and punctual
+- Good at following instructions and specifications
+- Strong understanding of legacy codebase at current company
+- Comfortable with established processes
+
+Areas for Growth:
+- Limited experience with modern frameworks (React, Node.js, etc.)
+- No cloud experience (AWS, Azure, GCP)
+- No experience leading projects or mentoring others
+- Haven't worked on greenfield projects
+- Minimal exposure to Agile/Scrum (company uses waterfall)
+
+Looking for: Opportunity to work with more modern technology stack and grow beyond junior level. Willing to learn but need guidance and structured training program.
+
+Reason for Seeking New Role: Current company only maintains legacy systems with no plans to modernize. Limited growth opportunities and no promotions available. Want to expand skills and advance career but need company willing to invest in development.
+
+REFERENCES
+
+Available upon request (current manager knows I'm looking)

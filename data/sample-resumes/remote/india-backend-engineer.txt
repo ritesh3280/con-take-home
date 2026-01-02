@@ -1,0 +1,94 @@
+RAHUL KRISHNAN
+Bangalore, India (Seeking US Opportunities with Visa Sponsorship)
+rahul.krishnan@email.com | +91 98765 43210
+LinkedIn: linkedin.com/in/rahulkrishnan | GitHub: github.com/rkrishnan
+
+PROFESSIONAL SUMMARY
+
+Backend Software Engineer with 5 years of experience building scalable distributed systems and microservices. Strong expertise in Java, Spring Boot, and cloud technologies. Seeking opportunities in the United States with H-1B sponsorship. Top performer with proven track record at major tech companies.
+
+TECHNICAL SKILLS
+
+Languages: Java, Python, Go, SQL, JavaScript
+Backend: Spring Boot, Spring Cloud, Hibernate, JPA, RESTful APIs, gRPC, microservices
+Databases: PostgreSQL, MySQL, MongoDB, Redis, Cassandra
+Cloud & DevOps: AWS (EC2, S3, Lambda, ECS, RDS), Kubernetes, Docker, Terraform, Jenkins
+Message Queues: Kafka, RabbitMQ, AWS SQS
+Monitoring: Prometheus, Grafana, ELK Stack, Datadog
+Other: Git, Agile/Scrum, system design, distributed systems
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer | Flipkart (Walmart), Bangalore, India | July 2021 - Present
+- Backend engineer on payments platform processing $50M+ daily transactions
+- Architected microservices handling 10K+ requests/second with 99.95% uptime
+- Built distributed transaction processing system using Kafka and PostgreSQL
+- Implemented caching layer with Redis reducing database load by 70%
+- Designed API gateway using Spring Cloud Gateway with rate limiting and circuit breakers
+- Led team of 4 engineers migrating monolith to microservices architecture
+- Reduced payment processing latency from 2s to 300ms through optimization
+- Technologies: Java, Spring Boot, PostgreSQL, Redis, Kafka, Kubernetes, AWS
+
+Software Engineer | Amazon Development Centre, Bangalore, India | August 2019 - June 2021
+- Developed backend services for Amazon Prime Video recommendations engine
+- Built real-time data pipeline processing 100M+ events daily using Kinesis and Lambda
+- Implemented A/B testing framework improving content discovery by 25%
+- Created monitoring dashboards and alerts reducing incident response time by 60%
+- Participated in on-call rotation maintaining 99.9% availability SLA
+- Collaborated with teams in Seattle and Vancouver on distributed systems
+- Technologies: Java, Spring Boot, AWS (Lambda, DynamoDB, Kinesis, S3), Python
+
+Software Development Engineer | Accenture, Bangalore, India | July 2018 - July 2019
+- Worked on enterprise banking applications for Fortune 500 financial services client
+- Developed RESTful APIs for mobile banking features
+- Implemented security features: authentication, authorization, encryption
+- Optimized SQL queries reducing report generation time by 50%
+- Technologies: Java, Spring, Oracle DB, REST APIs, JUnit
+
+EDUCATION
+
+Indian Institute of Technology (IIT) Madras, Chennai, India
+Bachelor of Technology in Computer Science and Engineering | 2014 - 2018
+GPA: 8.7/10.0 | Department Rank: Top 10%
+
+Relevant Coursework: Algorithms, Data Structures, Operating Systems, Databases, Distributed Systems, Computer Networks
+
+ACHIEVEMENTS & PUBLICATIONS
+
+- Received "Outstanding Performance Award" at Flipkart (2023)
+- Winner, Flipkart Hackathon 2022: Built real-time fraud detection system
+- Published technical blog posts on Medium (10K+ views) about microservices and distributed systems
+- Active contributor on Stack Overflow (reputation: 5000+)
+
+NOTABLE PROJECTS
+
+Distributed Rate Limiter | Go, Redis
+- Built high-performance distributed rate limiting service using Go and Redis
+- Handles 50K+ requests/second with sub-millisecond latency
+- Open source project with 600+ stars on GitHub
+
+Payment Gateway Integration Library | Java, Spring Boot
+- Created library simplifying integration with multiple payment providers (Stripe, Razorpay, PayPal)
+- Used by 100+ developers in Indian startup ecosystem
+- 400+ stars on GitHub
+
+CERTIFICATIONS
+
+- AWS Certified Solutions Architect - Associate
+- Oracle Certified Professional: Java SE 11 Developer
+- Microservices Architecture Specialization (Coursera)
+
+COMPETITIVE PROGRAMMING
+
+- Codeforces: Rating 1850 (Expert level)
+- LeetCode: 500+ problems solved, contest rating 1920
+- Google Code Jam 2023: Advanced to Round 2
+
+ADDITIONAL INFORMATION
+
+- Open to relocation to the United States
+- Seeking H-1B visa sponsorship
+- Available for in-person or remote positions
+- Strong English communication skills (verbal and written)
+- Experience working with globally distributed teams across time zones
+- Indian passport holder, no US work authorization currently

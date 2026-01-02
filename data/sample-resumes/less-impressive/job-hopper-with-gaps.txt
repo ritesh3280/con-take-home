@@ -1,0 +1,75 @@
+BRANDON MITCHELL
+Phoenix, AZ | brandon.mitchell@email.com | (480) 555-9821
+
+SUMMARY
+
+Software developer with experience in web development seeking new opportunities.
+
+TECHNICAL SKILLS
+
+Languages: JavaScript, Python, HTML, CSS
+Frameworks: React, Node.js, Express
+Tools: Git, VS Code
+Databases: MySQL, MongoDB
+
+WORK EXPERIENCE
+
+Web Developer | TechSolutions Inc., Phoenix, AZ | March 2023 - August 2023 (6 months)
+- Built websites for clients using WordPress and custom HTML/CSS
+- Fixed bugs in existing web applications
+- Updated content management systems
+
+Software Developer | StartupX (remote) | June 2022 - November 2022 (6 months)
+- Developed features for social media platform
+- Worked on frontend using React
+- Company shut down due to lack of funding
+
+Junior Developer | Digital Agency LLC, Scottsdale, AZ | January 2022 - April 2022 (4 months)
+- Created landing pages for marketing campaigns
+- Maintained client websites
+- Left due to better opportunity
+
+Gap: September 2021 - December 2021 (4 months)
+- Freelance work and job searching
+
+Web Developer Intern | Local Marketing Firm, Phoenix, AZ | May 2021 - August 2021 (4 months)
+- Summer internship building client websites
+- Basic HTML/CSS work
+- Helped with WordPress sites
+
+Gap: March 2021 - April 2021 (2 months)
+- Personal reasons
+
+Junior Web Developer | Small Tech Company, Phoenix, AZ | October 2020 - February 2021 (5 months)
+- Entry-level position working on company website
+- Fixed bugs and added new features
+- Position eliminated due to budget cuts
+
+Gap: June 2020 - September 2020 (4 months)
+- Unemployed after bootcamp
+
+EDUCATION
+
+Coding Bootcamp (Unnamed), Phoenix, AZ | Completed: May 2020
+- 12-week intensive web development program
+- Learned HTML, CSS, JavaScript, React, Node.js
+
+Community College of Phoenix | 2017-2019
+- General Studies, no degree completed
+
+PROJECTS
+
+Personal Portfolio Website
+- Built using React
+- Shows my previous work
+
+To-Do List App
+- Simple app using JavaScript
+- Stores tasks in browser
+
+ADDITIONAL INFORMATION
+
+- Looking for stable full-time position
+- Open to contract or freelance work
+- Available immediately
+- No references available from previous employers

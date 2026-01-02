@@ -1,0 +1,79 @@
+JESSICA MARTINEZ
+San Francisco, CA | jessica.martinez@gmail.com | (415) 555-2893
+Portfolio: jessicamartinez.design | LinkedIn: linkedin.com/in/jessicamartinez
+
+PROFESSIONAL SUMMARY
+
+Frontend Engineer with 5 years of experience building modern, responsive web applications. Specialized in React, TypeScript, and performance optimization. Passionate about creating delightful user experiences and collaborating closely with designers.
+
+TECHNICAL SKILLS
+
+Languages: JavaScript, TypeScript, HTML5, CSS3
+Frontend: React, Next.js, Vue.js, Redux, React Query, Zustand
+Styling: Tailwind CSS, styled-components, Sass, CSS-in-JS, responsive design
+Tools: Git, Webpack, Vite, Storybook, Figma, Chrome DevTools
+Testing: Jest, React Testing Library, Cypress, Playwright
+Other: REST APIs, GraphQL, WebSockets, performance optimization, accessibility (a11y)
+
+PROFESSIONAL EXPERIENCE
+
+Senior Frontend Engineer | Notion, San Francisco, CA | January 2022 - Present
+- Lead frontend development for collaborative editing features used by 30M+ users
+- Optimized rendering performance reducing time-to-interactive by 45% through code splitting and lazy loading
+- Built real-time collaboration system using WebSockets and operational transforms
+- Implemented comprehensive component library with Storybook improving development velocity by 30%
+- Mentored 2 junior engineers and established frontend best practices and style guides
+- Conducted A/B tests that increased user engagement by 18%
+- Technologies: React, TypeScript, Next.js, Tailwind, Redux, WebSockets
+
+Frontend Engineer | Faire, San Francisco, CA | March 2020 - December 2021
+- Developed merchant-facing dashboard for B2B wholesale marketplace
+- Built product catalog interface handling 100K+ products with infinite scroll and filters
+- Implemented responsive design supporting mobile, tablet, and desktop with 95% Lighthouse scores
+- Created custom data visualization components using D3.js for analytics dashboard
+- Reduced bundle size by 40% through dynamic imports and tree shaking
+- Collaborated with product and design teams in weekly sprint planning
+- Technologies: React, TypeScript, Redux, styled-components, GraphQL
+
+Frontend Developer | Lyft (contract via Toptal) | June 2019 - February 2020
+- Built driver onboarding flow increasing completion rate by 25%
+- Implemented map integration using Mapbox GL for real-time ride tracking
+- Created reusable component library used across 5 product teams
+- Improved accessibility achieving WCAG 2.1 AA compliance
+- Technologies: React, JavaScript, Sass, Redux, Jest, Cypress
+
+Junior Frontend Developer | AKQA (Digital Agency), San Francisco, CA | July 2017 - May 2019
+- Developed client websites for major brands including Nike, Coca-Cola, and Adobe
+- Built interactive marketing campaigns with animations using GSAP and Three.js
+- Worked directly with designers to implement pixel-perfect interfaces
+- Maintained WordPress sites and custom CMS integrations
+- Technologies: React, Vue.js, JavaScript, HTML/CSS, WordPress
+
+EDUCATION
+
+San Jose State University, San Jose, CA
+Bachelor of Science in Computer Science | May 2017
+
+SIDE PROJECTS
+
+Design System Template (Open Source) | React, TypeScript, Storybook
+- Created production-ready design system template with 50+ components
+- 2.5K+ stars on GitHub, featured in React Newsletter
+- Includes documentation, accessibility guidelines, and theming support
+
+Personal Portfolio Site | Next.js, Tailwind, Framer Motion
+- Built portfolio site with case studies showcasing frontend projects
+- Implemented smooth animations and transitions for polished UX
+- Achieves 100 Lighthouse performance score
+
+SPEAKING & WRITING
+
+- Speaker, React Summit 2023: "Optimizing React Apps for Performance"
+- Published article on CSS-Tricks: "Modern CSS Techniques for Responsive Design" (15K+ views)
+- Regular contributor to frontend blogs and newsletters
+
+ADDITIONAL INFORMATION
+
+- Strong eye for design and UI/UX principles
+- Experience working in fast-paced startup environments
+- Comfortable with ambiguity and rapid iteration

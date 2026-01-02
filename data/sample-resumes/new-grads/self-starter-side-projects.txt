@@ -1,0 +1,69 @@
+JAMES PARKER
+Austin, TX | james.parker@utexas.edu | (512) 555-3421
+GitHub: github.com/jparker | Personal Site: jamesparker.tech
+
+EDUCATION
+
+University of Texas at Austin, Austin, TX
+Bachelor of Science in Computer Science | GPA: 3.5/4.0 | May 2024
+
+TECHNICAL SKILLS
+
+Languages: JavaScript, TypeScript, Python, Go, HTML/CSS
+Frontend: React, Next.js, Tailwind CSS, Vue.js
+Backend: Node.js, Express, FastAPI, PostgreSQL, MongoDB
+DevOps: Docker, Git, GitHub Actions, Vercel, Railway
+Other: REST APIs, GraphQL, WebSockets, Stripe API
+
+PROJECTS & OPEN SOURCE
+
+TaskFlow - Project Management SaaS (Active Users: 200+) | Next.js, TypeScript, Supabase
+- Designed and launched production SaaS application for team task management
+- Implemented real-time collaboration features using Supabase real-time subscriptions
+- Integrated Stripe for payment processing with tiered subscription plans
+- Achieved 200+ active users through organic growth and ProductHunt launch
+- Tech stack: Next.js 14, TypeScript, Tailwind, Supabase (PostgreSQL), Stripe
+- Live at: taskflow.app
+
+DevDaily - Developer News Aggregator | React, Node.js, PostgreSQL, Redis
+- Built news aggregation platform collecting content from 50+ tech blogs and sites
+- Implemented web scraping service with Python Beautiful Soup and Celery for background jobs
+- Designed caching layer with Redis reducing database queries by 80%
+- Created responsive frontend with infinite scroll and dark mode support
+- Live at: devdaily.io
+
+Budget Buddy - Personal Finance Tracker (Open Source) | React Native, Expo, SQLite
+- Developed cross-platform mobile app for expense tracking and budget management
+- Built local-first architecture using SQLite with cloud sync capabilities
+- Published on GitHub with 450+ stars and active community of contributors
+- Implemented data visualization with charts showing spending trends
+- Available on iOS and Android app stores
+
+Open Source Contributions:
+- Contributed bug fixes to react-table (merged PR #2891)
+- Added TypeScript types to express-validator (merged PR #1453)
+- Improved documentation for Next.js (merged PR #54321)
+
+WORK EXPERIENCE
+
+Freelance Web Developer | Self-Employed | January 2023 - Present
+- Built custom websites and web applications for 8 local small businesses
+- Delivered projects on time and within budget, maintaining 5-star client reviews
+- Technologies used: React, Next.js, WordPress, Shopify, custom CMS integrations
+
+Student IT Help Desk | UT Austin | September 2021 - May 2023
+- Provided technical support to students and faculty with software and hardware issues
+- Resolved 500+ support tickets with 95% satisfaction rating
+- Assisted with network configuration and troubleshooting
+
+HACKATHONS & COMPETITIONS
+
+- HackTX 2023: Winner "Best Use of AI" - Built AI-powered study companion app
+- TAMUhack 2023: Finalist - Created real-time collaboration whiteboard
+- Google HashCode 2023: Placed top 15% globally
+
+ADDITIONAL INFORMATION
+
+- Self-taught mobile development (React Native) and DevOps (Docker, CI/CD)
+- Active tech blogger sharing tutorials and coding tips (5000+ monthly readers)
+- Strong interest in startup ecosystem and building products people love

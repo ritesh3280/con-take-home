@@ -1,0 +1,90 @@
+PRIYA SHARMA
+New York, NY | priya.sharma@email.com | (212) 555-6129
+LinkedIn: linkedin.com/in/priyasharma | GitHub: github.com/psharma
+
+PROFESSIONAL SUMMARY
+
+Machine Learning Engineer with 4 years of experience building and deploying NLP and LLM-powered applications. Expertise in PyTorch, Transformers, and production ML systems. Published researcher with strong foundation in deep learning and natural language processing.
+
+TECHNICAL SKILLS
+
+Machine Learning: PyTorch, TensorFlow, Hugging Face Transformers, scikit-learn, XGBoost
+NLP: BERT, GPT, T5, LLaMA, RAG, fine-tuning, prompt engineering, embeddings, tokenization
+MLOps: MLflow, Weights & Biases, DVC, Docker, Kubernetes, AWS SageMaker
+Languages: Python, SQL, Bash
+Data: Pandas, NumPy, Spark, Airflow, data pipelines, ETL
+Cloud: AWS (EC2, S3, Lambda, SageMaker), GCP (Vertex AI)
+Other: FastAPI, Flask, REST APIs, PostgreSQL, MongoDB, Redis
+
+PROFESSIONAL EXPERIENCE
+
+Machine Learning Engineer | Bloomberg, New York, NY | March 2022 - Present
+- Building NLP systems for financial news analysis and information extraction
+- Developed named entity recognition model for extracting companies, people, and financial terms from news articles with 94% F1 score
+- Fine-tuned LLaMA-2 13B model for financial question answering, deployed on AWS SageMaker
+- Built RAG (Retrieval-Augmented Generation) system combining vector search with LLMs for internal knowledge base
+- Implemented real-time sentiment analysis pipeline processing 10K+ articles daily
+- Created embeddings-based document search reducing query time from 2s to 200ms
+- Collaborated with software engineers to deploy ML models to production with 99.5% uptime
+- Technologies: PyTorch, Transformers, LLaMA, BERT, FinBERT, Elasticsearch, FastAPI, AWS
+
+Machine Learning Engineer | Grammarly, New York, NY | June 2020 - February 2022
+- Worked on writing assistance features powered by transformer models
+- Fine-tuned T5 model for grammar correction achieving 91% accuracy on internal benchmark
+- Developed text style transfer model for tone detection and suggestions
+- Optimized model inference latency from 300ms to 50ms using ONNX and quantization
+- Built A/B testing framework for evaluating model improvements, increasing user engagement by 15%
+- Created data annotation pipeline and managed team of 5 annotators
+- Technologies: PyTorch, Transformers, T5, BERT, ONNX, TensorRT, Python, AWS
+
+Research Engineer | NYU Center for Data Science, New York, NY | September 2019 - May 2020
+- Conducted research on low-resource machine translation under Prof. Kyunghyun Cho
+- Implemented multilingual BERT model for cross-lingual transfer learning
+- Experimented with various pre-training objectives and data augmentation techniques
+- Co-authored paper published at EMNLP 2020: "Improving Low-Resource NMT with Multilingual Pre-training"
+- Technologies: PyTorch, fairseq, Transformers, Python
+
+EDUCATION
+
+New York University, New York, NY
+Master of Science in Computer Science | September 2018 - May 2020
+Concentration: Machine Learning and Natural Language Processing | GPA: 3.9/4.0
+Thesis: "Cross-lingual Transfer Learning for Low-Resource Languages"
+
+Indian Institute of Technology (IIT) Delhi, New Delhi, India
+Bachelor of Technology in Computer Science | August 2014 - May 2018
+GPA: 3.8/4.0
+
+PUBLICATIONS
+
+- P. Sharma, et al. "Improving Low-Resource NMT with Multilingual Pre-training" - EMNLP 2020
+- P. Sharma, K. Cho. "Cross-lingual Word Embeddings for Low-Resource Languages" - ACL Workshop 2019
+
+PROJECTS & OPEN SOURCE
+
+Custom GPT Fine-tuning Framework | PyTorch, Transformers, LoRA
+- Built open-source framework for efficient fine-tuning of large language models
+- Implemented parameter-efficient methods: LoRA, QLoRA, Prefix Tuning
+- 800+ stars on GitHub, used by ML practitioners at several companies
+
+Financial Document QA System | LangChain, OpenAI, Pinecone
+- Created RAG system for answering questions about financial documents (10-Ks, earnings calls)
+- Implemented document chunking, embedding generation, and semantic search
+- Built FastAPI backend with async endpoints handling 100+ concurrent requests
+
+SPEAKING & COMMUNITY
+
+- Speaker, PyData NYC 2023: "Production ML Systems for NLP Applications"
+- Kaggle Expert (competitions rank: top 2%)
+- Active contributor to Hugging Face Transformers library (merged 3 PRs)
+
+TECHNICAL CERTIFICATIONS
+
+- AWS Certified Machine Learning - Specialty
+- Deep Learning Specialization (Coursera - Andrew Ng)
+
+ADDITIONAL INFORMATION
+
+- Experienced in both research and production ML environments
+- Strong communication skills presenting technical concepts to non-technical stakeholders
+- Comfortable working with large-scale datasets and distributed training

@@ -1,0 +1,46 @@
+SARAH CHEN
+sarah.chen@email.com | (555) 123-4567 | linkedin.com/in/sarahchen | github.com/sarahchen
+
+EDUCATION
+
+University of Washington, Seattle, WA
+Bachelor of Science in Computer Science | GPA: 3.6/4.0 | May 2024
+
+Relevant Coursework: Data Structures, Algorithms, Database Systems, Web Development, Operating Systems
+
+TECHNICAL SKILLS
+
+Languages: Python, Java, JavaScript, HTML/CSS, SQL
+Frameworks/Tools: React, Node.js, Flask, Git, MySQL, MongoDB
+Concepts: Object-Oriented Programming, RESTful APIs, Agile Development
+
+EXPERIENCE
+
+Software Engineering Intern | TechStart Solutions, Seattle, WA | June 2023 - August 2023
+- Developed internal dashboard using React and Node.js for tracking customer support tickets
+- Implemented REST API endpoints using Express.js that reduced data fetch time by 40%
+- Collaborated with team of 4 engineers using Git and Agile methodology
+- Fixed 15+ bugs in legacy codebase and improved code documentation
+
+Teaching Assistant | University of Washington CS Department | September 2022 - May 2024
+- Assisted in CS 142 (Data Structures) course with 200+ students
+- Held weekly office hours to help students debug code and understand algorithms
+- Graded assignments and provided detailed feedback on coding style and efficiency
+
+PROJECTS
+
+Recipe Sharing Platform | React, Node.js, MongoDB | github.com/sarahchen/recipe-app
+- Built full-stack web application allowing users to share and discover recipes
+- Implemented user authentication using JWT and password hashing with bcrypt
+- Designed responsive UI with Material-UI that works across desktop and mobile devices
+- Deployed application on Heroku with MongoDB Atlas database
+
+Task Manager CLI Tool | Python | github.com/sarahchen/task-cli
+- Created command-line task management application with SQLite database
+- Implemented features for adding, editing, deleting, and searching tasks
+- Used argparse for command parsing and prettytable for formatted output
+
+ACTIVITIES
+
+- Member, Women in Computer Science club (2021-2024)
+- Volunteer, Hour of Code instructor for local middle school (2023)

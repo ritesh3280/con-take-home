@@ -1,0 +1,110 @@
+JASON TURNER
+Las Vegas, NV | jasonturner1990@yahoo.com | (702) 555-4192
+
+ABOUT ME
+
+Self-taught programmer looking to break into the tech industry. Been learning to code for about 2 years through online resources. Really passionate about technology and want to prove myself given the chance.
+
+TECHNICAL KNOWLEDGE
+
+Programming: Python (okay), JavaScript (learning), HTML/CSS (decent)
+Tried: Java, C++, Go (didn't finish tutorials)
+Tools: Git (basic), GitHub, Visual Studio Code
+Learning: React, Django, trying to understand databases
+
+WORK HISTORY
+
+IT Support Technician | Small Local Business, Las Vegas, NV | June 2022 - Present
+- Help employees with computer problems
+- Reset passwords and fix printer issues
+- Installed software a few times
+- Not really programming but working with computers
+- Pay is $17/hour
+
+Customer Service Representative | Call Center, Las Vegas, NV | 2019 - 2022
+- Answered customer calls for cable company
+- Troubleshooting basic technical issues over phone
+- Promoted to senior rep after 1 year
+- Left to pursue IT career
+
+Warehouse Worker | Amazon Fulfillment Center, Las Vegas, NV | 2017 - 2019
+- Picking and packing orders
+- Physical labor job
+- Worked night shifts
+
+Various Jobs | 2014 - 2017
+- Retail, restaurant, delivery driver
+- Trying to find right career path
+
+SELF-TAUGHT EDUCATION
+
+YouTube Tutorials | 2021 - Present
+- Watched hundreds of hours of programming tutorials
+- Channels: Traversy Media, freeCodeCamp, The Net Ninja
+- Topics: Python basics, web development, trying to learn React
+
+Udemy Courses (Purchased but not all completed):
+- "Complete Python Bootcamp" - 60% complete
+- "Web Developer Bootcamp" - 40% complete
+- "JavaScript Algorithms and Data Structures" - 25% complete
+- "React for Beginners" - started but paused
+
+freeCodeCamp | Started 2022
+- Completed: Responsive Web Design (got certificate)
+- In progress: JavaScript Algorithms (stuck on some problems)
+- Haven't started: other sections
+
+FORMAL EDUCATION
+
+Nevada High School, Las Vegas, NV | Graduated 2013
+- Regular diploma
+- Didn't go to college (couldn't afford it)
+
+PERSONAL PROJECTS (Learning Projects)
+
+Calculator App | HTML, CSS, JavaScript
+- Made basic calculator following tutorial
+- Works but has some bugs with decimals
+- Code on GitHub
+
+Python Scripts | Python
+- Wrote some scripts for practice:
+  - Password generator
+  - Rock paper scissors game
+  - Simple budget calculator
+- Following tutorial exercises mostly
+
+Tried to Build Portfolio Website
+- Started making portfolio site with HTML/CSS
+- Got stuck on making it responsive
+- Not finished yet
+
+GITHUB ACTIVITY
+
+- Account created: 2022
+- Repos: 8 (mostly tutorial follow-alongs and incomplete projects)
+- Commits: ~50 total
+- No contributions to other projects
+- No stars or forks on my repos
+
+CURRENT SITUATION
+
+- Working full-time in IT support but want to be developer
+- Studying coding at night after work (2-3 hours when I'm not tired)
+- Hard to stay motivated sometimes
+- Feel like imposter syndrome a lot
+- Applied to 50+ junior developer jobs, got 2 interviews but no offers
+- Not sure if I'm good enough but really want to try
+
+WHAT I'M LOOKING FOR
+
+- Entry level junior developer position
+- Company willing to train someone without CS degree
+- Willing to start at lower salary to gain experience
+- Open to any programming language/stack (can learn on the job)
+- Just need someone to give me a chance
+
+REFERENCES
+
+Can provide personal references from current job and previous managers
+No tech references or portfolio to show (still working on projects)

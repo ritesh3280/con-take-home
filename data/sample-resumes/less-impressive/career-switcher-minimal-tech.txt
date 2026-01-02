@@ -1,0 +1,150 @@
+MELISSA RODRIGUEZ
+Chicago, IL | melissa.rodriguez77@gmail.com | (312) 555-8921
+
+OBJECTIVE
+
+Transitioning from teaching career to software development. Completed online coding courses and seeking entry-level developer position. Quick learner with strong work ethic and passion for technology.
+
+TECHNICAL SKILLS
+
+Languages: Python (basic), JavaScript (learning), HTML, CSS
+Tools: VS Code, Git (still learning), Microsoft Office
+Concepts: Basic understanding of algorithms, variables, loops, functions
+Currently Learning: React (through free YouTube tutorials)
+
+WORK EXPERIENCE
+
+High School Math Teacher | Chicago Public Schools, Chicago, IL | August 2015 - June 2024 (9 years)
+- Taught Algebra, Geometry, and Pre-Calculus to 9th-12th graders
+- Created lesson plans and graded assignments
+- Managed classroom of 30+ students
+- Used technology in classroom (SmartBoard, Google Classroom)
+
+Relevant Skills:
+- Problem solving and logical thinking (teaching math)
+- Used Excel for gradebook (formulas, basic data analysis)
+- Created Google Forms for quizzes
+- Troubleshot classroom technology issues
+- Patient and good at explaining concepts
+
+Why Leaving: Burnout from teaching, low pay, want better work-life balance and higher salary potential in tech field
+
+Math Tutor | Self-Employed | 2013 - 2015
+- Private tutoring for high school and college students
+- Helped students with math homework and test prep
+
+EDUCATION
+
+University of Illinois at Chicago
+Bachelor of Arts in Mathematics | Graduated 2013
+Minor in Education
+
+Teaching Certification: Illinois State Board of Education (2015)
+
+TECHNICAL TRAINING (Recent)
+
+Codecademy | 2023 - 2024
+- Completed: Learn Python 3 course
+- Completed: Learn HTML course
+- In Progress: Learn JavaScript course (50% done)
+- Status: Free version, completed about 30 hours total
+
+YouTube Self-Study | 2024
+- Watching programming tutorials in spare time
+- Following along with code-along videos
+- Channels: Programming with Mosh, freeCodeCamp
+- Estimated: 40-50 hours of video tutorials
+
+Coursera | Started September 2024
+- Enrolled in "Python for Everybody" specialization
+- Completed 2 out of 5 courses
+- Paused due to time constraints during school year
+
+PROJECTS (Learning Exercises)
+
+Calculator Program | Python
+- Made simple command-line calculator
+- Can add, subtract, multiply, divide
+- Followed along with tutorial
+
+Number Guessing Game | Python
+- User guesses random number between 1-100
+- My first independent project (after finishing tutorial)
+
+Personal Website | HTML, CSS
+- Basic 3-page website about myself
+- Resume page, about page, contact form (form doesn't work yet)
+- Hosted on GitHub Pages
+
+Current Project (Started):
+- Trying to build gradebook app for teachers using Python
+- Got stuck after setting up basic structure
+- Code doesn't run, getting errors I don't understand
+
+TECHNICAL LIMITATIONS (Being Honest)
+
+- No professional software development experience
+- Never worked on a team coding project
+- Don't fully understand Git/GitHub (watched tutorials but still confused)
+- Limited understanding of backend/frontend concepts
+- No experience with databases
+- Never done code review or collaboration
+- Not familiar with software development lifecycle
+- No experience with testing, deployment, or production systems
+- Impostor syndrome - worry I'm too old to switch careers (age 34)
+
+CAREER CHANGE MOTIVATION
+
+Why Tech:
+- Higher salary potential (teacher salary: $52K after 9 years)
+- Better work-life balance than teaching
+- Interest in problem-solving and logic
+- Technology skills seem more marketable
+- Remote work possibilities
+- Job stability and growth
+
+Concerns:
+- No CS degree (only math degree)
+- Late career switcher (34 years old)
+- Limited hands-on experience
+- Self-taught with gaps in knowledge
+- Competitive job market for entry level
+
+WHAT I OFFER
+
+Soft Skills:
+- Patient and persistent
+- Good at breaking down complex problems (from teaching)
+- Strong communication skills
+- Comfortable presenting to groups
+- Organized and detail-oriented
+- Quick learner when motivated
+- Reliable and professional
+
+Technical Skills (Honest Assessment):
+- Basic Python programming (tutorial level)
+- Can write simple scripts
+- Understanding of fundamental concepts
+- Eager to learn more
+- Need mentorship and structured guidance
+
+WHAT I'M LOOKING FOR
+
+- Entry-level position with training/mentorship program
+- Company willing to hire career changers
+- Role that values soft skills and teaching ability
+- Willingness to start at lower junior developer salary
+- Patient team that can help me grow
+- Open to any tech stack (willing to learn whatever is needed)
+
+AVAILABILITY
+
+- Can start after school year ends (June 2024) or during summer break
+- Available immediately for night/weekend work
+- Not currently employed (left teaching in June 2024)
+- Actively job searching, applying to 10-20 jobs per week
+- Haven't gotten many interviews yet
+
+REFERENCES
+
+Available upon request (teaching references only, no tech references)

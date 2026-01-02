@@ -1,0 +1,83 @@
+TIFFANY BROOKS
+Atlanta, GA | tiffany.brooks@gmail.com | 404-555-3287
+
+OBJECTIVE
+
+Recent coding bootcamp graduate seeking entry-level software development position. Passionate about web development and eager to learn.
+
+SKILLS
+
+Frontend: HTML, CSS, JavaScript, React (basic)
+Backend: Node.js (learning)
+Tools: Git, GitHub, VS Code, Figma (basic)
+Other: Responsive design, Bootstrap
+
+PROFESSIONAL EXPERIENCE
+
+Freelance Web Developer | Self-Employed, Atlanta, GA | October 2023 - Present
+- Build websites for small businesses and friends
+- Mostly using WordPress and templates
+- Created 5 websites total
+- Clients:
+  - Hair salon website (WordPress)
+  - Local bakery landing page (HTML/CSS)
+  - Friend's photography portfolio (Wix)
+  - Small restaurant menu site (WordPress)
+  - Personal trainer landing page (HTML/CSS)
+
+Projects completed via Fiverr:
+- Fixed CSS bugs for 3 clients ($150 total earned)
+- Updated WordPress plugins for 2 clients ($100 total earned)
+- Created simple contact forms ($75 total earned)
+
+EDUCATION
+
+General Assembly Bootcamp (Online), Remote | June 2023 - September 2023
+- 12-week Software Engineering Immersive program
+- Final project: Built a recipe sharing app (not completed fully)
+- Attended 85% of classes
+- Struggled with backend concepts but improved
+
+Georgia State University, Atlanta, GA | 2018 - 2020
+- Studied Marketing (did not complete degree)
+- Left after sophomore year due to financial reasons
+
+BOOTCAMP PROJECTS
+
+Recipe Sharing App (Incomplete) | React, Node.js
+- Started building full-stack app during bootcamp
+- Frontend mostly complete, backend has issues
+- Not currently deployed
+- Code on GitHub (private repo)
+
+Weather App | HTML, CSS, JavaScript
+- Simple weather lookup using API
+- First project during bootcamp
+- Deployed on GitHub Pages
+
+PREVIOUS NON-TECH EXPERIENCE
+
+Sales Associate | Forever 21, Atlanta, GA | 2020 - 2023
+- Retail sales and customer service
+- Cash handling and inventory management
+- Decided to switch careers to tech
+
+Barista | Starbucks, Atlanta, GA | 2019 - 2020
+- Part-time while in college
+- Customer service
+
+ADDITIONAL INFORMATION
+
+- Currently learning React through YouTube tutorials
+- Completed some freeCodeCamp certificates
+- Member of local Women Who Code chapter (attended 2 meetups)
+- Available to start immediately
+- Looking for entry-level position with mentorship
+- Open to unpaid internship to gain experience
+- No professional references in tech field
+- Transportation: have reliable car
+- Willing to work any hours
+
+REFERENCES
+
+Available upon request (personal references only, no professional tech references)

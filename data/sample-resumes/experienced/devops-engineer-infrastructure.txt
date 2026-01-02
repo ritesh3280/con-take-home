@@ -1,0 +1,84 @@
+MARCUS THOMPSON
+Portland, OR | marcus.thompson@email.com | (503) 555-7654
+LinkedIn: linkedin.com/in/marcusthompson | GitHub: github.com/mthompson
+
+PROFESSIONAL SUMMARY
+
+DevOps/Platform Engineer with 7 years of experience building and maintaining cloud infrastructure. Expert in Kubernetes, Terraform, and AWS. Strong track record of improving reliability, reducing costs, and accelerating deployment velocity for engineering teams.
+
+TECHNICAL SKILLS
+
+Cloud Platforms: AWS (EC2, ECS, EKS, S3, RDS, Lambda, CloudFront, Route53, IAM), GCP
+Containers & Orchestration: Kubernetes, Docker, Helm, ECS, EKS
+Infrastructure as Code: Terraform, CloudFormation, Ansible, Pulumi
+CI/CD: GitHub Actions, GitLab CI, Jenkins, CircleCI, ArgoCD
+Monitoring & Logging: Prometheus, Grafana, ELK Stack, Datadog, CloudWatch, PagerDuty
+Languages: Python, Bash, Go, YAML
+Other: Linux, networking, security, cost optimization, incident response
+
+PROFESSIONAL EXPERIENCE
+
+Senior DevOps Engineer | HashiCorp, Remote | October 2021 - Present
+- Lead platform engineering efforts for internal developer platform serving 500+ engineers
+- Architected multi-region Kubernetes clusters on AWS EKS with 99.99% uptime SLA
+- Built self-service infrastructure provisioning system using Terraform Cloud and GitOps workflows
+- Implemented comprehensive observability stack with Prometheus, Grafana, and Loki
+- Reduced cloud costs by 35% through resource right-sizing and spot instance usage
+- Created disaster recovery procedures and conducted quarterly DR drills
+- On-call rotation: incident commander for production incidents
+- Technologies: Kubernetes, Terraform, AWS, Vault, Consul, Datadog, ArgoCD
+
+DevOps Engineer | New Relic, Portland, OR | March 2019 - September 2021
+- Maintained production infrastructure processing 1TB+ of telemetry data daily
+- Built CI/CD pipelines reducing deployment time from 2 hours to 15 minutes
+- Implemented auto-scaling policies handling 10x traffic spikes during incidents
+- Created monitoring dashboards and alerting rules reducing MTTR by 50%
+- Migrated services from EC2 to Kubernetes improving resource utilization by 40%
+- Automated certificate management using cert-manager and Let's Encrypt
+- Technologies: Kubernetes, Docker, Terraform, Jenkins, AWS, Datadog, Ansible
+
+Site Reliability Engineer | Puppet, Portland, OR | July 2017 - February 2019
+- Managed infrastructure for SaaS configuration management platform
+- Built automated backup and recovery systems for critical databases
+- Implemented chaos engineering practices using Gremlin to test system resilience
+- Created runbooks and documentation for common operational tasks
+- Participated in on-call rotation maintaining 99.9% uptime SLA
+- Optimized database performance reducing query latency by 60%
+- Technologies: AWS, Terraform, Puppet, PostgreSQL, Redis, ELK Stack
+
+EDUCATION
+
+Oregon State University, Corvallis, OR
+Bachelor of Science in Computer Science | May 2017
+
+CERTIFICATIONS
+
+- AWS Certified Solutions Architect - Professional
+- Certified Kubernetes Administrator (CKA)
+- Certified Kubernetes Security Specialist (CKS)
+- HashiCorp Certified: Terraform Associate
+
+NOTABLE PROJECTS & ACHIEVEMENTS
+
+Kubernetes Cost Optimization Tool (Open Source) | Go, Kubernetes API
+- Built CLI tool analyzing Kubernetes resource usage and recommending optimizations
+- Adopted by 50+ companies, featured in CNCF landscape
+- Saved average user $15K/month in cloud costs
+- 1.5K+ stars on GitHub
+
+Infrastructure Migration Leadership
+- Led migration of 200+ services from self-managed EC2 to managed Kubernetes
+- Completed in 6 months with zero downtime
+- Reduced operational overhead by 60%
+
+SPEAKING & WRITING
+
+- Speaker, KubeCon North America 2023: "Cost Optimization Strategies for Kubernetes"
+- Published blog posts on DevOps best practices (20K+ total views)
+- Contributor to CNCF and Kubernetes community
+
+COMMUNITY INVOLVEMENT
+
+- Organizer, Portland DevOps Meetup (400+ members)
+- Mentor, DevOps bootcamp for career switchers
+- Open source maintainer: contributed to kubernetes/kubernetes, prometheus/prometheus
