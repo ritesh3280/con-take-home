@@ -17,7 +17,7 @@ Everything is pre-computed at startup so the only API call per request is the on
 
 ### Example structured resume JSON
 
-This is a real example of the `structured_resume` output produced in phase 1:
+This is a real example of the structured_resume output produced in phase 1:
 
 ```json
 {
