@@ -15,6 +15,128 @@ See EVALUATION.md for design decisions, tradeoffs, and my personal reflection.
 
 Everything is pre-computed at startup so the only API call per request is the one LLM extraction.
 
+### Example structured resume JSON
+
+This is a real example of the `structured_resume` output produced in phase 1:
+
+```json
+{
+  "total_yoe": 7,
+  "seniority": "senior",
+  "candidate_location": {
+    "city": "Portland",
+    "region": "OR",
+    "country": "USA"
+  },
+  "work_authorization": {
+    "authorized_in_us": true,
+    "needs_sponsorship": false,
+    "visa_mentions": []
+  },
+  "open_to_us_roles": {
+    "value": true,
+    "evidence": null
+  },
+  "willing_to_relocate": {
+    "value": false,
+    "evidence": null
+  },
+  "engagement_pref": {
+    "value": "full_time",
+    "evidence": null
+  },
+  "timezone_overlap": [],
+  "work_mode_exp": {
+    "has_remote": true,
+    "has_onsite": true,
+    "has_hybrid": false
+  },
+  "work_pref": {
+    "preference": null,
+    "evidence": null
+  },
+  "companies": [
+    {
+      "name": "HashiCorp",
+      "months": 25,
+      "is_faang": false,
+      "is_startup": false,
+      "location": "Remote",
+      "top_bullets": [
+        "Lead platform engineering efforts for internal developer platform serving 500+ engineers",
+        "Reduced cloud costs by 35% through resource right-sizing and spot instance usage"
+      ]
+    },
+    {
+      "name": "New Relic",
+      "months": 30,
+      "is_faang": false,
+      "is_startup": false,
+      "location": "Portland, OR",
+      "top_bullets": [
+        "Built CI/CD pipelines reducing deployment time from 2 hours to 15 minutes",
+        "Migrated services from EC2 to Kubernetes improving resource utilization by 40%"
+      ]
+    },
+    {
+      "name": "Puppet",
+      "months": 19,
+      "is_faang": false,
+      "is_startup": false,
+      "location": "Portland, OR",
+      "top_bullets": [
+        "Implemented chaos engineering practices using Gremlin to test system resilience",
+        "Optimized database performance reducing query latency by 60%"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "Python",
+      "Bash",
+      "Go",
+      "YAML"
+    ],
+    "frameworks": [
+      "Kubernetes",
+      "Docker",
+      "Helm"
+    ],
+    "infra": [
+      "AWS",
+      "GCP",
+      "Terraform",
+      "Ansible"
+    ],
+    "specializations": [
+      "CI/CD",
+      "Monitoring & Logging",
+      "Cost Optimization"
+    ]
+  },
+  "highlights": [
+    "Built real-time notification service with Kubernetes + AWS, serving 500+ engineers",
+    "Created disaster recovery procedures reducing downtime risk",
+    "Led migration of 200+ services to Kubernetes with zero downtime",
+    "Developed CLI tool for Kubernetes cost optimization, saving users $15K/month",
+    "Implemented observability stack with Prometheus and Grafana, improving incident response"
+  ],
+  "education": [
+    {
+      "school": "Oregon State University",
+      "degree": "Bachelor of Science in Computer Science",
+      "is_top_tier": true
+    }
+  ],
+  "signals": {
+    "founder": false,
+    "open_source": true,
+    "publications": true,
+    "leadership": true
+  }
+}
+```
+
 ## Scoring
 
 Each job gets a score out of 100:

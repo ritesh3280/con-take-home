@@ -602,6 +602,13 @@ def match_resume_to_jobs(resume_text: str) -> tuple[list[JobMatch], MatchMetadat
     
     print("\n[Phase 1] Extracting resume structure...")
     structured_resume = extract_resume_structure(resume_text)
+
+    # print statemtent if wanna print structured resume output
+    # try:
+    #     print("[DEBUG] structured_resume:\n" + json.dumps(structured_resume, indent=2))
+    # except Exception:
+    #     print("[DEBUG] structured_resume (non-serializable)\n", structured_resume)
+    
     resume_yoe = structured_resume.get("total_yoe")
     seniority = structured_resume.get("seniority", "unknown")
     print(f"  Candidate: {seniority}, {resume_yoe} YOE")
