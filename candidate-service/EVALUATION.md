@@ -95,9 +95,9 @@ What I did:
 - No explicit YOE in job? Use title heuristics (Staff Engineer probably needs 8+)
 - Penalized senior people applying to entry-level stuff
 
-### Thresholds Were Guesswork
+### Picked Thresholds with Checks
 
-I just picked numbers that looked reasonable when testing.
+I just picked values that looked reasonable when testing.
 
 Current setup:
 - 50 jobs in recall
