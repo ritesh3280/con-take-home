@@ -4,6 +4,9 @@ It makes **one LLM call per request** (resume → structured JSON). All job and 
 
 See EVALUATION.md for design decisions, tradeoffs, and my personal reflection.
 
+## Loom Video:
+https://www.loom.com/share/f79b9f61eccb43e09c915f621aaa6262
+
 ## How It Works
 
 4 steps per resume:
