@@ -11,6 +11,9 @@ Basically, the service does 4 things:
 
 Main thing: I only call the LLM once per request. Everything else uses pre-computed embeddings so it stays fast and cheap.
 
+## Loom Video:
+https://www.loom.com/share/f79b9f61eccb43e09c915f621aaa6262
+
 ## How I Got Here
 
 ### Started With The Obvious Thing
